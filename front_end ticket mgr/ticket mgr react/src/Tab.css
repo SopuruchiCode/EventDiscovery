@@ -1,0 +1,18 @@
+.tab{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(35, 35, 127);
+    border-radius: 10px;
+    margin: 8px 2px;
+    color: white;
+    display: flex;
+    padding: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:visited{
+    color: white;
+}

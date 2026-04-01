@@ -1,0 +1,3185 @@
+[
+  {
+    "_id": {
+      "$oid": "693df304b8b359a6764f8a36"
+    },
+    "name": "njjjioj",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "knjnlkn",
+    "date": "2026-01-06",
+    "time": "00:15:00",
+    "duration": 2,
+    "capacity": 5,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "693dfc2bceef5b8067b509c2"
+    },
+    "name": "jjijoij",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "ljjijoijoij",
+    "date": "2026-01-06",
+    "time": "05:48:00",
+    "duration": 8,
+    "capacity": 7,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "693dfc67ceef5b8067b509c3"
+    },
+    "name": "nljnkn",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "knknn",
+    "date": "2026-01-07",
+    "time": "00:57:00",
+    "duration": 2,
+    "capacity": 50,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "693dfd0add05f7292bf72880"
+    },
+    "name": "nljnkn",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "knknn",
+    "date": "2026-01-07",
+    "time": "00:57:00",
+    "duration": 2,
+    "capacity": 50,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "693dfdb6dd05f7292bf72881"
+    },
+    "name": "lkhk;",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "m mnn",
+    "date": "2026-01-07",
+    "time": "00:02:00",
+    "duration": 2,
+    "capacity": 50,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "693dfdebdd05f7292bf72882"
+    },
+    "name": "lkhk;",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "m mnn",
+    "date": "2026-01-07",
+    "time": "00:02:00",
+    "duration": 2,
+    "capacity": 50,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "693dff9ddd05f7292bf72883"
+    },
+    "name": "dsfaw",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "xgfsgs",
+    "date": "2026-01-08",
+    "time": "01:10:00",
+    "duration": 2,
+    "capacity": 50,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "693dfff1dd05f7292bf72884"
+    },
+    "name": "weferwe",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "sdgsgs",
+    "date": "2026-01-09",
+    "time": "01:14:00",
+    "duration": 2,
+    "capacity": 50,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "693e00c9dd05f7292bf72885"
+    },
+    "name": "weferwe",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "sdgsgs",
+    "date": "2026-01-09",
+    "time": "01:14:00",
+    "duration": 2,
+    "capacity": 50,
+    "slots_filled": 0,
+    "cover-photo": "14-12-2025-00-11-53.ico"
+  },
+  {
+    "_id": {
+      "$oid": "6940d5faff00bab09db6228d"
+    },
+    "name": "Justice League GC",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "The Watchtower",
+    "date": "2025-12-30",
+    "time": "06:00:00",
+    "duration": 3,
+    "capacity": 7,
+    "slots_filled": 0,
+    "cover-photo": "16-12-2025-03-46-02.ico"
+  },
+  {
+    "_id": {
+      "$oid": "6940dc99ff00bab09db6228e"
+    },
+    "name": "njknkjkj",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "knnlkn",
+    "date": "2026-01-10",
+    "time": "05:10:00",
+    "duration": 7,
+    "capacity": 4,
+    "slots_filled": 0,
+    "cover-photo": "16-12-2025-04-14-17.ico"
+  },
+  {
+    "_id": {
+      "$oid": "694991bc04a8011956cfc5dc"
+    },
+    "name": "Justice League GC",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "anns",
+    "date": "2025-12-26",
+    "time": "12:44:00",
+    "duration": 4,
+    "capacity": 25,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000001"
+    },
+    "name": "event_1",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_1",
+    "date": "2026-01-06",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 7,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000002"
+    },
+    "name": "event_2",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_2",
+    "date": "2026-01-07",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 8,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000003"
+    },
+    "name": "event_3",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_3",
+    "date": "2026-01-08",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 9,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000004"
+    },
+    "name": "event_4",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_4",
+    "date": "2026-01-09",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 10,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000005"
+    },
+    "name": "event_5",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_5",
+    "date": "2026-01-10",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 11,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000006"
+    },
+    "name": "event_6",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_6",
+    "date": "2026-01-11",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 12,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000007"
+    },
+    "name": "event_7",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_7",
+    "date": "2026-01-12",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 13,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000008"
+    },
+    "name": "event_8",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_8",
+    "date": "2026-01-13",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 14,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000009"
+    },
+    "name": "event_9",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_9",
+    "date": "2026-01-14",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 15,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000010"
+    },
+    "name": "event_10",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_10",
+    "date": "2026-01-15",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 16,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000011"
+    },
+    "name": "event_11",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_11",
+    "date": "2026-01-16",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 17,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000012"
+    },
+    "name": "event_12",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_12",
+    "date": "2026-01-17",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 18,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000013"
+    },
+    "name": "event_13",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_13",
+    "date": "2026-01-18",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 19,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000014"
+    },
+    "name": "event_14",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_14",
+    "date": "2026-01-19",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 20,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000015"
+    },
+    "name": "event_15",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_15",
+    "date": "2026-01-20",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 21,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000016"
+    },
+    "name": "event_16",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_16",
+    "date": "2026-01-21",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 22,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000017"
+    },
+    "name": "event_17",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_17",
+    "date": "2026-01-22",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 23,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000018"
+    },
+    "name": "event_18",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_18",
+    "date": "2026-01-23",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 24,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000019"
+    },
+    "name": "event_19",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_19",
+    "date": "2026-01-24",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 25,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000020"
+    },
+    "name": "event_20",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_20",
+    "date": "2026-01-25",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 26,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000021"
+    },
+    "name": "event_21",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_21",
+    "date": "2026-01-26",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 27,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000022"
+    },
+    "name": "event_22",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_22",
+    "date": "2026-01-27",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 28,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000023"
+    },
+    "name": "event_23",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_23",
+    "date": "2026-01-28",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 29,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000024"
+    },
+    "name": "event_24",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_24",
+    "date": "2026-01-29",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 30,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000025"
+    },
+    "name": "event_25",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_25",
+    "date": "2026-01-30",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 31,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000026"
+    },
+    "name": "event_26",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_26",
+    "date": "2026-01-31",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 32,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000027"
+    },
+    "name": "event_27",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_27",
+    "date": "2026-02-01",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 33,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000028"
+    },
+    "name": "event_28",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_28",
+    "date": "2026-02-02",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 34,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000029"
+    },
+    "name": "event_29",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_29",
+    "date": "2026-02-03",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 35,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000030"
+    },
+    "name": "event_30",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_30",
+    "date": "2026-02-04",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 36,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000031"
+    },
+    "name": "event_31",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_31",
+    "date": "2026-02-05",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 37,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000032"
+    },
+    "name": "event_32",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_32",
+    "date": "2026-02-06",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 38,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000033"
+    },
+    "name": "event_33",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_33",
+    "date": "2026-02-07",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 39,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000034"
+    },
+    "name": "event_34",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_34",
+    "date": "2026-02-08",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 40,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000035"
+    },
+    "name": "event_35",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_35",
+    "date": "2026-02-09",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 41,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000036"
+    },
+    "name": "event_36",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_36",
+    "date": "2026-02-10",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 42,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000037"
+    },
+    "name": "event_37",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_37",
+    "date": "2026-02-11",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 43,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000038"
+    },
+    "name": "event_38",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_38",
+    "date": "2026-02-12",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 44,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000039"
+    },
+    "name": "event_39",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_39",
+    "date": "2026-02-13",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 45,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000040"
+    },
+    "name": "event_40",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_40",
+    "date": "2026-02-14",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 46,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000041"
+    },
+    "name": "event_41",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_41",
+    "date": "2026-02-15",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 47,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000042"
+    },
+    "name": "event_42",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_42",
+    "date": "2026-02-16",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 48,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000043"
+    },
+    "name": "event_43",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_43",
+    "date": "2026-02-17",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 49,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000044"
+    },
+    "name": "event_44",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_44",
+    "date": "2026-02-18",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 50,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000045"
+    },
+    "name": "event_45",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_45",
+    "date": "2026-02-19",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 51,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000046"
+    },
+    "name": "event_46",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_46",
+    "date": "2026-02-20",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 52,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000047"
+    },
+    "name": "event_47",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_47",
+    "date": "2026-02-21",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 53,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000048"
+    },
+    "name": "event_48",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_48",
+    "date": "2026-02-22",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 54,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000049"
+    },
+    "name": "event_49",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_49",
+    "date": "2026-02-23",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 55,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000050"
+    },
+    "name": "event_50",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_50",
+    "date": "2026-02-24",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 56,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000051"
+    },
+    "name": "event_51",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_51",
+    "date": "2026-02-25",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 57,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000052"
+    },
+    "name": "event_52",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_52",
+    "date": "2026-02-26",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 58,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000053"
+    },
+    "name": "event_53",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_53",
+    "date": "2026-02-27",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 59,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000054"
+    },
+    "name": "event_54",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_54",
+    "date": "2026-02-28",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 60,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000055"
+    },
+    "name": "event_55",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_55",
+    "date": "2026-01-06",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 61,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000056"
+    },
+    "name": "event_56",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_56",
+    "date": "2026-01-07",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 62,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000057"
+    },
+    "name": "event_57",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_57",
+    "date": "2026-01-08",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 63,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000058"
+    },
+    "name": "event_58",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_58",
+    "date": "2026-01-09",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 64,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000059"
+    },
+    "name": "event_59",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_59",
+    "date": "2026-01-10",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 65,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000060"
+    },
+    "name": "event_60",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_60",
+    "date": "2026-01-11",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 66,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000061"
+    },
+    "name": "event_61",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_61",
+    "date": "2026-01-12",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 67,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000062"
+    },
+    "name": "event_62",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_62",
+    "date": "2026-01-13",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 68,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000063"
+    },
+    "name": "event_63",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_63",
+    "date": "2026-01-14",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 69,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000064"
+    },
+    "name": "event_64",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_64",
+    "date": "2026-01-15",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 70,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000065"
+    },
+    "name": "event_65",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_65",
+    "date": "2026-01-16",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 71,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000066"
+    },
+    "name": "event_66",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_66",
+    "date": "2026-01-17",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 72,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000067"
+    },
+    "name": "event_67",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_67",
+    "date": "2026-01-18",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 73,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000068"
+    },
+    "name": "event_68",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_68",
+    "date": "2026-01-19",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 74,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000069"
+    },
+    "name": "event_69",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_69",
+    "date": "2026-01-20",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 75,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000070"
+    },
+    "name": "event_70",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_70",
+    "date": "2026-01-21",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 76,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000071"
+    },
+    "name": "event_71",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_71",
+    "date": "2026-01-22",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 77,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000072"
+    },
+    "name": "event_72",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_72",
+    "date": "2026-01-23",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 78,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000073"
+    },
+    "name": "event_73",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_73",
+    "date": "2026-01-24",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 79,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000074"
+    },
+    "name": "event_74",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_74",
+    "date": "2026-01-25",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 80,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000075"
+    },
+    "name": "event_75",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_75",
+    "date": "2026-01-26",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 81,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000076"
+    },
+    "name": "event_76",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_76",
+    "date": "2026-01-27",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 82,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000077"
+    },
+    "name": "event_77",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_77",
+    "date": "2026-01-28",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 83,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000078"
+    },
+    "name": "event_78",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_78",
+    "date": "2026-01-29",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 84,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000079"
+    },
+    "name": "event_79",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_79",
+    "date": "2026-01-30",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 85,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000080"
+    },
+    "name": "event_80",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_80",
+    "date": "2026-01-31",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 86,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000081"
+    },
+    "name": "event_81",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_81",
+    "date": "2026-02-01",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 87,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000082"
+    },
+    "name": "event_82",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_82",
+    "date": "2026-02-02",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 88,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000083"
+    },
+    "name": "event_83",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_83",
+    "date": "2026-02-03",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 89,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000084"
+    },
+    "name": "event_84",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_84",
+    "date": "2026-02-04",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 90,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000085"
+    },
+    "name": "event_85",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_85",
+    "date": "2026-02-05",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 91,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000086"
+    },
+    "name": "event_86",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_86",
+    "date": "2026-02-06",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 92,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000087"
+    },
+    "name": "event_87",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_87",
+    "date": "2026-02-07",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 93,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000088"
+    },
+    "name": "event_88",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_88",
+    "date": "2026-02-08",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 94,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000089"
+    },
+    "name": "event_89",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_89",
+    "date": "2026-02-09",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 95,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000090"
+    },
+    "name": "event_90",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_90",
+    "date": "2026-02-10",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 96,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000091"
+    },
+    "name": "event_91",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_91",
+    "date": "2026-02-11",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 97,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000092"
+    },
+    "name": "event_92",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_92",
+    "date": "2026-02-12",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 98,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000093"
+    },
+    "name": "event_93",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_93",
+    "date": "2026-02-13",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 99,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000094"
+    },
+    "name": "event_94",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_94",
+    "date": "2026-02-14",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 100,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000095"
+    },
+    "name": "event_95",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_95",
+    "date": "2026-02-15",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 7,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000096"
+    },
+    "name": "event_96",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_96",
+    "date": "2026-02-16",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 8,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000097"
+    },
+    "name": "event_97",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_97",
+    "date": "2026-02-17",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 9,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000098"
+    },
+    "name": "event_98",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_98",
+    "date": "2026-02-18",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 10,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000099"
+    },
+    "name": "event_99",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_99",
+    "date": "2026-02-19",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 11,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000100"
+    },
+    "name": "event_100",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_100",
+    "date": "2026-02-20",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 12,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000101"
+    },
+    "name": "event_101",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_101",
+    "date": "2026-02-21",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 13,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000102"
+    },
+    "name": "event_102",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_102",
+    "date": "2026-02-22",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 14,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000103"
+    },
+    "name": "event_103",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_103",
+    "date": "2026-02-23",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 15,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000104"
+    },
+    "name": "event_104",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_104",
+    "date": "2026-02-24",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 16,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000105"
+    },
+    "name": "event_105",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_105",
+    "date": "2026-02-25",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 17,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000106"
+    },
+    "name": "event_106",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_106",
+    "date": "2026-02-26",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 18,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000107"
+    },
+    "name": "event_107",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_107",
+    "date": "2026-02-27",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 19,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000108"
+    },
+    "name": "event_108",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_108",
+    "date": "2026-02-28",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 20,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000109"
+    },
+    "name": "event_109",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_109",
+    "date": "2026-01-06",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 21,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000110"
+    },
+    "name": "event_110",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_110",
+    "date": "2026-01-07",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 22,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000111"
+    },
+    "name": "event_111",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_111",
+    "date": "2026-01-08",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 23,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000112"
+    },
+    "name": "event_112",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_112",
+    "date": "2026-01-09",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 24,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000113"
+    },
+    "name": "event_113",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_113",
+    "date": "2026-01-10",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 25,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000114"
+    },
+    "name": "event_114",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_114",
+    "date": "2026-01-11",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 26,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000115"
+    },
+    "name": "event_115",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_115",
+    "date": "2026-01-12",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 27,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000116"
+    },
+    "name": "event_116",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_116",
+    "date": "2026-01-13",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 28,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000117"
+    },
+    "name": "event_117",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_117",
+    "date": "2026-01-14",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 29,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000118"
+    },
+    "name": "event_118",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_118",
+    "date": "2026-01-15",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 30,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000119"
+    },
+    "name": "event_119",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_119",
+    "date": "2026-01-16",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 31,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000120"
+    },
+    "name": "event_120",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_120",
+    "date": "2026-01-17",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 32,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000121"
+    },
+    "name": "event_121",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_121",
+    "date": "2026-01-18",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 33,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000122"
+    },
+    "name": "event_122",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_122",
+    "date": "2026-01-19",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 34,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000123"
+    },
+    "name": "event_123",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_123",
+    "date": "2026-01-20",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 35,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000124"
+    },
+    "name": "event_124",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_124",
+    "date": "2026-01-21",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 36,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000125"
+    },
+    "name": "event_125",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_125",
+    "date": "2026-01-22",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 37,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000126"
+    },
+    "name": "event_126",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_126",
+    "date": "2026-01-23",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 38,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000127"
+    },
+    "name": "event_127",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_127",
+    "date": "2026-01-24",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 39,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000128"
+    },
+    "name": "event_128",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_128",
+    "date": "2026-01-25",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 40,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000129"
+    },
+    "name": "event_129",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_129",
+    "date": "2026-01-26",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 41,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000130"
+    },
+    "name": "event_130",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_130",
+    "date": "2026-01-27",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 42,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000131"
+    },
+    "name": "event_131",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_131",
+    "date": "2026-01-28",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 43,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000132"
+    },
+    "name": "event_132",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_132",
+    "date": "2026-01-29",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 44,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000133"
+    },
+    "name": "event_133",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_133",
+    "date": "2026-01-30",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 45,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000134"
+    },
+    "name": "event_134",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_134",
+    "date": "2026-01-31",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 46,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000135"
+    },
+    "name": "event_135",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_135",
+    "date": "2026-02-01",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 47,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000136"
+    },
+    "name": "event_136",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_136",
+    "date": "2026-02-02",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 48,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000137"
+    },
+    "name": "event_137",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_137",
+    "date": "2026-02-03",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 49,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000138"
+    },
+    "name": "event_138",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_138",
+    "date": "2026-02-04",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 50,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000139"
+    },
+    "name": "event_139",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_139",
+    "date": "2026-02-05",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 51,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000140"
+    },
+    "name": "event_140",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_140",
+    "date": "2026-02-06",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 52,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000141"
+    },
+    "name": "event_141",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_141",
+    "date": "2026-02-07",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 53,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000142"
+    },
+    "name": "event_142",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_142",
+    "date": "2026-02-08",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 54,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000143"
+    },
+    "name": "event_143",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_143",
+    "date": "2026-02-09",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 55,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000144"
+    },
+    "name": "event_144",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_144",
+    "date": "2026-02-10",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 56,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000145"
+    },
+    "name": "event_145",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_145",
+    "date": "2026-02-11",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 57,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000146"
+    },
+    "name": "event_146",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_146",
+    "date": "2026-02-12",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 58,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000147"
+    },
+    "name": "event_147",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_147",
+    "date": "2026-02-13",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 59,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000148"
+    },
+    "name": "event_148",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_148",
+    "date": "2026-02-14",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 60,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000149"
+    },
+    "name": "event_149",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_149",
+    "date": "2026-02-15",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 61,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000150"
+    },
+    "name": "event_150",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_150",
+    "date": "2026-02-16",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 62,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000151"
+    },
+    "name": "event_151",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_151",
+    "date": "2026-02-17",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 63,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000152"
+    },
+    "name": "event_152",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_152",
+    "date": "2026-02-18",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 64,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000153"
+    },
+    "name": "event_153",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_153",
+    "date": "2026-02-19",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 65,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000154"
+    },
+    "name": "event_154",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_154",
+    "date": "2026-02-20",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 66,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000155"
+    },
+    "name": "event_155",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_155",
+    "date": "2026-02-21",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 67,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000156"
+    },
+    "name": "event_156",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_156",
+    "date": "2026-02-22",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 68,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000157"
+    },
+    "name": "event_157",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_157",
+    "date": "2026-02-23",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 69,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000158"
+    },
+    "name": "event_158",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_158",
+    "date": "2026-02-24",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 70,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000159"
+    },
+    "name": "event_159",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_159",
+    "date": "2026-02-25",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 71,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000160"
+    },
+    "name": "event_160",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_160",
+    "date": "2026-02-26",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 72,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000161"
+    },
+    "name": "event_161",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_161",
+    "date": "2026-02-27",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 73,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000162"
+    },
+    "name": "event_162",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_162",
+    "date": "2026-02-28",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 74,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000163"
+    },
+    "name": "event_163",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_163",
+    "date": "2026-01-06",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 75,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000164"
+    },
+    "name": "event_164",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_164",
+    "date": "2026-01-07",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 76,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000165"
+    },
+    "name": "event_165",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_165",
+    "date": "2026-01-08",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 77,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000166"
+    },
+    "name": "event_166",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_166",
+    "date": "2026-01-09",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 78,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000167"
+    },
+    "name": "event_167",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_167",
+    "date": "2026-01-10",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 79,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000168"
+    },
+    "name": "event_168",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_168",
+    "date": "2026-01-11",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 80,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000169"
+    },
+    "name": "event_169",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_169",
+    "date": "2026-01-12",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 81,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000170"
+    },
+    "name": "event_170",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_170",
+    "date": "2026-01-13",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 82,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000171"
+    },
+    "name": "event_171",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_171",
+    "date": "2026-01-14",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 83,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000172"
+    },
+    "name": "event_172",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_172",
+    "date": "2026-01-15",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 84,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000173"
+    },
+    "name": "event_173",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_173",
+    "date": "2026-01-16",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 85,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000174"
+    },
+    "name": "event_174",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_174",
+    "date": "2026-01-17",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 86,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000175"
+    },
+    "name": "event_175",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_175",
+    "date": "2026-01-18",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 87,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000176"
+    },
+    "name": "event_176",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_176",
+    "date": "2026-01-19",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 88,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000177"
+    },
+    "name": "event_177",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_177",
+    "date": "2026-01-20",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 89,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000178"
+    },
+    "name": "event_178",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_178",
+    "date": "2026-01-21",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 90,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000179"
+    },
+    "name": "event_179",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_179",
+    "date": "2026-01-22",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 91,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000180"
+    },
+    "name": "event_180",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_180",
+    "date": "2026-01-23",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 92,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000181"
+    },
+    "name": "event_181",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_181",
+    "date": "2026-01-24",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 93,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000182"
+    },
+    "name": "event_182",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_182",
+    "date": "2026-01-25",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 94,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000183"
+    },
+    "name": "event_183",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_183",
+    "date": "2026-01-26",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 95,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000184"
+    },
+    "name": "event_184",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_184",
+    "date": "2026-01-27",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 96,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000185"
+    },
+    "name": "event_185",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_185",
+    "date": "2026-01-28",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 97,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000186"
+    },
+    "name": "event_186",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_186",
+    "date": "2026-01-29",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 98,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000187"
+    },
+    "name": "event_187",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_187",
+    "date": "2026-01-30",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 99,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000188"
+    },
+    "name": "event_188",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_188",
+    "date": "2026-01-31",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 100,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000189"
+    },
+    "name": "event_189",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_189",
+    "date": "2026-02-01",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 7,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000190"
+    },
+    "name": "event_190",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_190",
+    "date": "2026-02-02",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 8,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000191"
+    },
+    "name": "event_191",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_191",
+    "date": "2026-02-03",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 9,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000192"
+    },
+    "name": "event_192",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_192",
+    "date": "2026-02-04",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 10,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000193"
+    },
+    "name": "event_193",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_193",
+    "date": "2026-02-05",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 11,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000194"
+    },
+    "name": "event_194",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_194",
+    "date": "2026-02-06",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 12,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000195"
+    },
+    "name": "event_195",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_195",
+    "date": "2026-02-07",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 13,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000196"
+    },
+    "name": "event_196",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_196",
+    "date": "2026-02-08",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 14,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000197"
+    },
+    "name": "event_197",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_197",
+    "date": "2026-02-09",
+    "time": "09:00:00",
+    "duration": 2,
+    "capacity": 15,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000198"
+    },
+    "name": "event_198",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_198",
+    "date": "2026-02-10",
+    "time": "10:00:00",
+    "duration": 2,
+    "capacity": 16,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000199"
+    },
+    "name": "event_199",
+    "creator_id": {
+      "$oid": "692694a6f918a06a461ccffd"
+    },
+    "venue": "venue_199",
+    "date": "2026-02-11",
+    "time": "11:00:00",
+    "duration": 2,
+    "capacity": 17,
+    "slots_filled": 0
+  },
+  {
+    "_id": {
+      "$oid": "700000000000000000000200"
+    },
+    "name": "event_200",
+    "creator_id": {
+      "$oid": "6926fba012b6a901f409d53e"
+    },
+    "venue": "venue_200",
+    "date": "2026-02-12",
+    "time": "12:00:00",
+    "duration": 2,
+    "capacity": 18,
+    "slots_filled": 0
+  }
+]

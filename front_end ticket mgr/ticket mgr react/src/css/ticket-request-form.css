@@ -1,0 +1,12 @@
+button{
+    flex: 1fr
+}
+.payment-div{
+    display: flex;
+    justify-content: center;
+}
+.radio{
+    display:inline;
+    width: 100px;
+    height: 15px
+}
