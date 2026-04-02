@@ -14,6 +14,7 @@ class Settings(BaseSettings):
     BACKEND_URL: str
     MONGO_DB_USERNAME: str
     MONGO_DB_PASSWORD: str
+    MONGO_DB_URI: str
     JWT_SECRET: str
     JWT_ALG: str
     BASE_FOLDER: str

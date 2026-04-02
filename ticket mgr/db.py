@@ -2,10 +2,11 @@ from pymongo import AsyncMongoClient
 from config import settings
 
 
-db_username = settings.MONGO_DB_USERNAME
-db_password = settings.MONGO_DB_PASSWORD
+# db_username = settings.MONGO_DB_USERNAME
+# db_password = settings.MONGO_DB_PASSWORD
 
-connection_string = f"mongodb://{db_username}:{db_password}@localhost:27018/"
+# connection_string = f"mongodb://{db_username}:{db_password}@localhost:27018/"
+connection_string = settings.MONGO_DB_URI
 client = AsyncMongoClient(connection_string, tz_aware=True)
 
 USER_DATABASE = client["auth"]["users"]
