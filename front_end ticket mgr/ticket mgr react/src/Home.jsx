@@ -1,4 +1,4 @@
-import Tab from './tab'
+import Tab from './Tab'
 import './home.css'
 import { AuthContext } from './js/Contexts'
 import { useContext } from 'react'
