@@ -8,6 +8,7 @@ from datetime import datetime, timezone
 from security.jwt import create_access_token, create_refresh_token, decode_token
 from security.passwords import hash_password, verify_password
 import aiofiles
+import cloudinary
 from pathlib import Path
 from os.path import join
 from consts import MEDIA_FOLDER
@@ -128,29 +129,35 @@ async def create_user(request: Request, profile_pic: UploadFile | None = File(No
     
     user["password"] = hash_password(user["password"])
     user["date_created"] = datetime.now(tz=timezone.utc)
+
+    image = cloudinary.uploader.upload(
+            profile_pic.file,
+            folder="eventMGT__profile_images"
+        )
+    user["profile_pic_url"] = image["secure_url"]
     result = await db.insert_one(user)
-    _id = result.inserted_id
-    _id_str = str(_id)
+    # _id = result.inserted_id
+    # _id_str = str(_id)
 
-    if profile_pic and profile_pic.filename:
-        ext = profile_pic.filename.split(".")[-1]
-        updated_filename = "profile_pic-"+ _id_str + datetime.strftime(datetime.now(tz=timezone.utc), "%d-%m-%Y-%H-%M-%S") +"."+ ext
-        chunk_size = 1024 * 1024
-        dest_dir = Path(join(PROFILE_PHOTO_FOLDER, f"{_id_str}"))
-        if not dest_dir.exists():
-            dest_dir.mkdir()
+    # if profile_pic and profile_pic.filename:
+    #     ext = profile_pic.filename.split(".")[-1]
+    #     updated_filename = "profile_pic-"+ _id_str + datetime.strftime(datetime.now(tz=timezone.utc), "%d-%m-%Y-%H-%M-%S") +"."+ ext
+    #     chunk_size = 1024 * 1024
+    #     dest_dir = Path(join(PROFILE_PHOTO_FOLDER, f"{_id_str}"))
+    #     if not dest_dir.exists():
+    #         dest_dir.mkdir()
 
-        path = join(PROFILE_PHOTO_FOLDER, f"{_id_str}", updated_filename)
-        async with aiofiles.open(path, "wb") as file:
-            while True:
-                chunk = await profile_pic.read(chunk_size)
-                if not chunk:
-                    break
-                await file.write(chunk)
-        await db.find_one_and_update({"_id": _id}, 
-                                        {
-                                        "$set": {"profile_pic": path}
-                                        })   
+    #     path = join(PROFILE_PHOTO_FOLDER, f"{_id_str}", updated_filename)
+    #     async with aiofiles.open(path, "wb") as file:
+    #         while True:
+    #             chunk = await profile_pic.read(chunk_size)
+    #             if not chunk:
+    #                 break
+    #             await file.write(chunk)
+    #     await db.find_one_and_update({"_id": _id}, 
+    #                                     {
+    #                                     "$set": {"profile_pic": path}
+    #                                     })   
     return {"success": "User successfully created"}
 
 

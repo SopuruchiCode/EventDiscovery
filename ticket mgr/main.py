@@ -9,6 +9,7 @@ from pydantic import BaseModel
 from security.auth import authenticate, oauth2_scheme
 from consts import MEDIA_FOLDER
 from db import client, EVENTS_DATABASE
+import cloudinary
 
 COVER_PHOTO_FOLDER = path.join(MEDIA_FOLDER,"EVENT_COVER_PHOTOS")
 router = APIRouter()
@@ -73,16 +74,22 @@ async def create_event(request: Request, cover_photo_file: UploadFile | None = F
     
     if cover_photo_file:
         if cover_photo_file.filename:
-            ext = cover_photo_file.filename.split(".")[-1]
-            filename = datetime.strftime(datetime.now(timezone.utc), "%d-%m-%Y-%H-%M-%S") +"."+ ext 
-            chunk_size = 1024 * 1024
-            async with aiofiles.open(path.join(COVER_PHOTO_FOLDER, filename), "wb") as file:
-                while True:
-                    content = await cover_photo_file.read(chunk_size)
-                    if not content:
-                        break
-                    await file.write(content)
-            event["cover-photo"] = filename
+            # ext = cover_photo_file.filename.split(".")[-1]
+            # filename = datetime.strftime(datetime.now(timezone.utc), "%d-%m-%Y-%H-%M-%S") +"."+ ext 
+            # chunk_size = 1024 * 1024
+            # async with aiofiles.open(path.join(COVER_PHOTO_FOLDER, filename), "wb") as file:
+            #     while True:
+            #         content = await cover_photo_file.read(chunk_size)
+            #         if not content:
+            #             break
+            #         await file.write(content)
+
+            result = cloudinary.uploader.upload(
+                                    cover_photo_file.file,
+                                    folder="eventMGT__event_cover_photo"
+                                )
+
+            event["cover-photo-url"] = result["secure_url"]
 
     _time = event["time"].split(":")
     event["time"] = time(hour=int(_time[0]), minute=int(_time[1])).strftime("%H:%M:%S")

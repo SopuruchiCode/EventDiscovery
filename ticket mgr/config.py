@@ -21,6 +21,9 @@ class Settings(BaseSettings):
 
     DJANBANK_PAYMENT_API_KEY: str
     DJANBANK_PAYMENT_GATEWAY_URL: str
+    CLOUDINARY_API_KEY: str
+    CLOUDINARY_CLOUD_NAME: str
+    CLOUDINARY_API_SECRET: str
 
 
     model_config = SettingsConfigDict(env_file=".env")
