@@ -6,10 +6,12 @@ class Settings(BaseSettings):
     ACCESS_TOKEN_EXPIRE_DAYS: int = 1
 
 
-    BACKEND_CORS_ORIGINS : list[str] = ['http://127.0.0.1:5500',
-                                        'http://localhost:3000',
-                                        'http://localhost:5173',
-                                        'http://172.25.114.210:5173']
+    BACKEND_CORS_ORIGINS : list[str] = [
+                                        # 'http://127.0.0.1:5500',
+                                        # 'http://localhost:3000',
+                                        # 'http://localhost:5173',
+                                        # 'http://172.25.114.210:5173',
+                                        'https://event-discovery-1.vercel.app']
     
     BACKEND_URL: str
     MONGO_DB_USERNAME: str
