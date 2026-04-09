@@ -11,7 +11,8 @@ class Settings(BaseSettings):
                                         # 'http://localhost:3000',
                                         # 'http://localhost:5173',
                                         # 'http://172.25.114.210:5173',
-                                        'https://event-discovery-1.vercel.app']
+                                        'https://event-discovery-1.vercel.app',
+                                        'https://event-discovery-emmanuel10.vercel.app']
     
     BACKEND_URL: str
     MONGO_DB_USERNAME: str
