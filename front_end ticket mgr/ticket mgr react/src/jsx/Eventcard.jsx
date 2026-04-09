@@ -37,7 +37,8 @@ export const Eventcard = ({eventModel, get_ticket=true}) => {
 <div className="body" style={{backgroundColor: randomColor()}}>
   <div className="card">
     <div className="card-cover">
-      <img src={backend_url + `/default_cover_photos/${randomImg()}`} alt="Event cover" />
+      {/* <img src={backend_url + `/default_cover_photos/${randomImg()}`} alt="Event cover" /> */}
+      <img src='https://res.cloudinary.com/dacapbrsq/image/upload/v1775493117/default_1_wqd064.jpg'/>
     </div>
 
     <div className="card-header">
